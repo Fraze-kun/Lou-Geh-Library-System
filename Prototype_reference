@@ -1,14 +1,11 @@
-SAIDE Library Management System
+Lou-Geh-Library-System (Incomplete)
+UX Assessment
 
-this is the reference for creating the prototype for the LouGehLS
-
-- download LMS zip file
-- unzip it in to your local web server
-- create a database named saide_db in Mysql/phpMyadmin
-- import saide_db.sql from the "database" folder inside LMS
-- go to your localhost path file for the LMS
-- you can start with the path in your browser localhost/LMS/login.php to start
-- username: demo       username: admin
-  password: demo       password: admin
-- use these credentials to login to the application
-- after that you can freely use the application
+download the library_db.sql
+create a database named library_db in Mysql/phpMyadmin
+import the sql file that was downloaded to the database you had created
+download the LouGehLS
+copy/cut and paste the LouGehLS to your local web server (XAMPP/WAMP or anything you have available for local web hosting)
+go to your localhost path file for the LouGehLS
+you can start with the path in your browser localhost/LouGehLS/BackEnd/EnterBooks.php to search a specific book
+after that you can freely use the application
