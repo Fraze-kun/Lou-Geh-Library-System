@@ -1,4 +1,4 @@
-# Lou-Geh-Library-System
+# Lou-Geh-Library-System (Incomplete)
 UX Assessment
 
 - download the library_db.sql
